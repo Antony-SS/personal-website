@@ -2,7 +2,7 @@ import React from "react";
 
 function Work() {
   return (
-    <div className="Work">
+    <div className="work">
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col-lg-7">

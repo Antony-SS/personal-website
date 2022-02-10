@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <div className="Travel">
+    <div className="travel">
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
