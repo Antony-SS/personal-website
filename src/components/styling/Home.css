@@ -1,0 +1,23 @@
+.home {
+    justify-content: center !important;
+    height: 100%; width: 100%;
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+}
+
+.data-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 850px;
+    margin: 0px;
+    padding:25px;
+    border-radius: 8px;
+    background: #F9F9F9;
+    box-shadow: 14px 14px 4px 1px rgba(0, 0, 0, 0.801);
+}
+
+.profilepic {
+    border-radius: 50%;
+}

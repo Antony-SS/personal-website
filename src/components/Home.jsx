@@ -1,19 +1,20 @@
 import React from "react";
+import "./styling/Home.css"
 
 function Home() {
   return (
     <div className="home">
-      <div class="container">
+      <div class="data-container">
         <div class="row align-items-center my-5">
-          <div class="col-lg-7">
+          <div class="col-lg-4">
             <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
+              class="profilepic"
+              src= {require("./resources/download.jpeg")}
               alt=""
             />
           </div>
-          <div class="col-lg-5">
-            <h1 class="font-weight-light">Home/About</h1>
+          <div class="col-lg-8">
+            <h1 class="font-weight-light">About</h1>
             <p>
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text

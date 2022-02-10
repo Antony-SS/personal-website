@@ -3,6 +3,9 @@ body {
   font-family: 'Inconsolata', monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #555555;
+  justify-content: center;
+  justify-items: center;
 }
 
 code {

@@ -1,0 +1,30 @@
+.navbar-brand {
+    font-size:35px !important;
+}
+
+.navigation {
+    justify-content: center;
+}
+
+.header {
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.navbar {
+    background-color: #555555 !important;
+    padding-top: 0px;
+    align-items: center;
+}
+
+.navbar-nav > li{
+    margin-left:20px;
+    margin-right:20px;
+  }
+
+h1 {
+    color: whitesmoke;
+    font-family: 'Inconsolata', monospace;
+    font-size: 38px;
+}

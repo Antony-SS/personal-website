@@ -1,0 +1,9 @@
+Red Orange: #D55E2D
+
+Concrete:  #D8D8D6
+
+Royal:  #2F5D8C
+
+Slate:  #A0B3C1
+
+Off White:  #F9F9F9

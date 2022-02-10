@@ -1,16 +1,17 @@
 import react from "react";
 import reactDom from "react-dom";
 import { NavLink } from "react-router-dom";
+import "./styling/Navigation.css"
 
 function Navigation() {
   return (
     <div className="navigation">
+      <div className="header" to="/">
+            <h1>Antony SS</h1>
+      </div>
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="container">
-          <NavLink className="navbar-brand" to="/">
-            React Multi-Page Website
-          </NavLink>
-          <div>
+          <div className="mx-auto">
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
                 <NavLink className="nav-link" to="/">

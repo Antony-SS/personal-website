@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import './components/styling/Footer.css';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import {
@@ -10,6 +11,7 @@ import {
   Work,
   Travel,
 } from "./components";
+
 
 ReactDOM.render(
   <Router>
