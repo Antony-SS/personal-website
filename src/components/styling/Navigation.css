@@ -10,6 +10,8 @@
     justify-content: center;
     text-align: center;
     margin-top: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 
 .navbar {
@@ -23,8 +25,6 @@
     margin-right:20px;
   }
 
-h1 {
+.headertext {
     color: whitesmoke;
-    font-family: 'Inconsolata', monospace;
-    font-size: 38px;
 }

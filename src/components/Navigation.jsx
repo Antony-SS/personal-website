@@ -7,7 +7,7 @@ function Navigation() {
   return (
     <div className="navigation">
       <div className="header" to="/">
-            <h1>Antony SS</h1>
+            <h1 className="headertext">Antony SS</h1>
       </div>
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="container">

@@ -15,9 +15,27 @@
     padding:25px;
     border-radius: 8px;
     background: #F9F9F9;
-    box-shadow: 14px 14px 4px 1px rgba(0, 0, 0, 0.801);
+    box-shadow: 20px 20px 4px 1px rgba(0, 0, 0, 0.801);
 }
 
 .profilepic {
     border-radius: 50%;
+}
+
+h1 {
+    color:black;
+}
+
+.social {
+    max-height: 20px;
+}
+
+.socials-container {
+    align-content: center;
+    flex-direction: column;
+}
+
+.email {
+    height: 24px;
+    width: 26px;
 }
