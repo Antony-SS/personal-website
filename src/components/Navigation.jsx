@@ -1,5 +1,3 @@
-import react from "react";
-import reactDom from "react-dom";
 import { NavLink } from "react-router-dom";
 import "./styling/Navigation.css"
 
