@@ -27,7 +27,7 @@ h1 {
 }
 
 .social {
-    max-height: 20px;
+    max-height: 30px;
 }
 
 .socials-container {
@@ -39,3 +39,55 @@ h1 {
     height: 24px;
     width: 26px;
 }
+
+.plane {
+    transform: rotate(-135deg);
+    max-height: 100px;
+    z-index: -2;
+    margin-top: 400px;
+}
+
+.plane-move{
+    position: absolute;
+    width: 100px;
+    z-index: 10;
+    right: -15%;
+    animation: movePlane 24s infinite;
+  }
+
+  @keyframes movePlane{
+    30% {
+    right: -15%;
+    }
+    80% {
+    right: 12%;
+    }
+    100% {
+    right: 160%;
+    }
+  }
+
+.blue-sedan-move{
+    position: absolute;
+    width: 100px;
+    z-index: 10;
+    left: -10%;
+    animation: moveBus 16s infinite;
+  }
+  
+  @keyframes moveBus{
+    30% {
+    left: -10%;
+    }
+    100% {
+    left: 110%;
+    }
+  }
+  
+
+  .blue-sedan {
+      transform: rotate(90deg);
+      max-height: 100px;
+      z-index: -2;
+      margin-bottom: 35px;
+  }

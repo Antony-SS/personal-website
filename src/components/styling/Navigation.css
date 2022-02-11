@@ -9,9 +9,10 @@
 .header {
     justify-content: center;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 0px;
     padding-bottom: 0px;
+    z-index: 10;
 }
 
 .navbar {

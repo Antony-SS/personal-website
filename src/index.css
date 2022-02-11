@@ -6,9 +6,40 @@ body {
   background-color: #555555;
   justify-content: center;
   justify-items: center;
+  overflow: hidden;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.wrapper{
+  position: absolute;
+  width: 100%;
+  z-index: -5;
+}
+
+.dashed-line{
+  align-self: center;
+  position: absolute;
+  z-index: -2;
+  border-top: 12px dashed #e0dd19;
+  color: #ffffff;
+  background-color: transparent;
+  height: 2px;
+  width: 100%;
+  margin-top: 0vh;
+}
+
+.dashed-line2{
+  align-self: center;
+  position: absolute;
+  z-index: -1;
+  border-top: 12px dashed #e0dd19;
+  color: #ffffff;
+  background-color: transparent;
+  height: 2px;
+  width: 100%;
+  margin-top: 0vh;
 }
