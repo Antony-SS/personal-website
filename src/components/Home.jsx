@@ -8,7 +8,8 @@ function Home() {
         </div>
         <div class="wrapper">
   <div class="blue-sedan-move">
-    <img class = "blue-sedan" src= {require("./resources/car.png")}/>
+    <img class = "blue-sedan" src= {require("./resources/car.png")}
+    alt= ""/>
   </div>
 </div>
       <div class="data-container">
@@ -56,7 +57,7 @@ function Home() {
       </div>
       <div class="wrapper">
   <div class="plane-move">
-    <img class = "plane" src= {require("./resources/plane.png")}/>
+    <img class = "plane" src= {require("./resources/plane.png")} alt= ""/>
   </div>
 </div>
     </div>
