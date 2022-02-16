@@ -9,7 +9,7 @@ function Navigation() {
       <div className="header" to="/">
             <h1 className="headertext">Antony</h1>
       </div>
-      <nav className="navbar navbar-expand navbar-dark bg-dark">
+      <nav className="navbar navbar-expand navbar-light">
         <div className="container">
           <div className="mx-auto">
             <ul className="navbar-nav ml-auto">

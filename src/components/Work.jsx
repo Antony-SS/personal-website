@@ -1,29 +1,55 @@
 import React from "react";
+import "./styling/Work.css"
 
 function Work() {
   return (
     <div className="work">
-      <div class="container">
-        <div class="row align-items-center my-5">
-          <div class="col-lg-7">
-            <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
-              alt=""
-            />
-          </div>
-          <div class="col-lg-5">
-            <h1 class="font-weight-light">Work</h1>
-            <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
-            </p>
-          </div>
+      <div className="datacontainer">
+
+      <div className="projectcard">
+        <h3>Song Share</h3>
+        <div className="row">
+        <div className= "col align-items-center">
+
+        <div class="laptopcontainer">
+  <div class="laptop">
+    <div class="laptop__screen"><img src= {require ("./resources/songshare.png")} width="1600" height="1000" alt="Screen"/></div>
+    <div class="laptop__bottom">
+      <div class="laptop__under"></div>
+    </div>
+    <div class="laptop__shadow"></div>
+  </div>
+</div>
+        </div>
+        </div>
+        <div className="description">
+          <p>A dapp built on the Rinkeby ethereum testnet to exchange and browse music reccomendations.</p>
         </div>
       </div>
+
+      <div className="projectcard">
+        <h3>Song Share</h3>
+        <div className="row">
+        <div className= "col align-items-center">
+
+        <div class="laptopcontainer">
+  <div class="laptop">
+    <div class="laptop__screen"><img src= {require ("./resources/songshare.png")} width="1600" height="1000" alt="Screen"/></div>
+    <div class="laptop__bottom">
+      <div class="laptop__under"></div>
     </div>
+    <div class="laptop__shadow"></div>
+  </div>
+</div>
+        </div>
+        </div>
+        <div className="description">
+          <p>A dapp built on the Rinkeby ethereum testnet to exchange and browse music reccomendations.</p>
+        </div>
+      </div>
+  
+    </div>
+      </div>
   );
 }
 

@@ -15,6 +15,8 @@
     border-radius: 8px;
     background: #F9F9F9;
     box-shadow: 20px 20px 4px 1px rgba(0, 0, 0, 0.801);
+    border: 1.5px inset black;
+    margin-bottom: 90px;
 }
 
 .profilepic {
@@ -22,11 +24,13 @@
 }
 
 h1 {
-    color:black;
+    color:black !important;
 }
 
 .social {
     max-height: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .socials-container {
@@ -34,7 +38,7 @@ h1 {
     flex-direction: column;
 }
 
-.plane {
+/* .plane {
     transform: rotate(-135deg);
     max-height: 100px;
     z-index: -2;
@@ -84,5 +88,5 @@ h1 {
       max-height: 100px;
       z-index: -2;
       margin-bottom: 35px;
-  }
+  } */
 

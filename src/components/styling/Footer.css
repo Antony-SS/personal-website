@@ -1,3 +1,19 @@
 .py-5 {
-    color: transparent !important;
+    background-color: transparent !important;
+    max-height: 5vh;
+}
+
+.footer-container {
+    position: relative;
+    padding: 10px 10px 0px 10px;
+    width: 100%;
+    /* Height of the footer*/ 
+    height: 10vh;
+    background: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin-bottom: 5px;
 }
