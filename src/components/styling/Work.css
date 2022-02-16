@@ -3,6 +3,7 @@
     justify-content: center;
     width: 100%;
     margin-top: 40px;
+    min-height: 100vh - 100px;
 }
 
 .datacontainer {
@@ -31,7 +32,6 @@
     border: 1.5px inset black;
     align-items: center;
     margin-bottom: 60px;
-    
 }
 
 .laptopcontainer {
