@@ -22,7 +22,7 @@ function Home() {
              Working as a freelance developer on a variety of projects and bounties.  
             </p>
             <p style={{fontSize: "16.5px"}}>
-              Born in Germany, raised in Illinois, and currently studying abroad in Madrid</p>
+              Born in Germany, raised in Illinois, and currently studying abroad in Madrid.</p>
           </div>
         </div>
       </div>
