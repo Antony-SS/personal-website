@@ -3,6 +3,12 @@
     max-height: 5vh;
 }
 
+.footer--pin {
+    position: relative;
+    left: 0;
+    bottom: 0;
+}
+
 .footer-container {
     position: relative;
     padding: 10px 10px 0px 10px;

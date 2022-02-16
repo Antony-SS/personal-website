@@ -65,7 +65,7 @@ function Work() {
         </div>
         </div>
         <div className="description">
-          <p>Takes an array of data representing elevations in a given region and generates a grayscale ppm image representing the area's elevations.  On top of that image, the program will highlight the path of least change of elevation in green, which is found using the greedy algorith.  Red lines represent "failed" paths.</p>
+          <p>Takes an array of data representing elevations in a given region and generates a grayscale ppm image representing the area's elevations.  On top of that image, the program will highlight the path of least change of elevation in green, which is found using the greedy algorithm.  Red lines represent "failed" paths.  Could be improved by implementing recursive backtracking.</p>
         </div>
       </div>
   

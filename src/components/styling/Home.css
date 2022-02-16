@@ -2,6 +2,7 @@
     justify-content: center !important;
     height: 100%; width: 100%;
     display: flex;
+    min-height: 100vh - 100px;
     margin-top: 40px;
 }
 
@@ -21,6 +22,15 @@
 
 .profilepic {
     border-radius: 50%;
+    max-width: 220px;
+    height: auto;
+    border: 1.5px solid black;
+    padding-right: 0px;
+}
+
+.pic-col {
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 h1 {

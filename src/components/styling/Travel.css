@@ -1,0 +1,103 @@
+
+.travel {
+    justify-content: center !important;
+    height: 100%; width: 100%;
+    display: flex;
+    min-height: 100vh - 100px !important;
+    margin-top: 40px;
+}
+
+.data-container-travel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 850px;
+    margin: 0px;
+    padding:25px;
+    border-radius: 8px;
+    background: #F9F9F9;
+    box-shadow: 20px 20px 4px 1px rgba(0, 0, 0, 0.801);
+    border: 1.5px inset black;
+    margin-bottom: 405px;
+}
+
+.profilepic {
+    border-radius: 50%;
+    max-width: 220px;
+    height: auto;
+    border: 1.5px solid black;
+    padding-right: 0px;
+}
+
+.pic-col {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+h1 {
+    color:black !important;
+}
+
+.social {
+    max-height: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.socials-container {
+    align-content: center;
+    flex-direction: column;
+}
+
+/* .plane {
+    transform: rotate(-135deg);
+    max-height: 100px;
+    z-index: -2;
+    margin-top: 400px;
+}
+
+.plane-move{
+    position: absolute;
+    width: 100px;
+    z-index: 10;
+    right: -15%;
+    animation: movePlane 24s infinite;
+  }
+
+  @keyframes movePlane{
+    30% {
+    right: -15%;
+    }
+    80% {
+    right: 12%;
+    }
+    100% {
+    right: 160%;
+    }
+  }
+
+.blue-sedan-move{
+    position: absolute;
+    width: 100px;
+    z-index: 10;
+    left: -10%;
+    animation: moveBus 16s infinite;
+  }
+  
+  @keyframes moveBus{
+    30% {
+    left: -10%;
+    }
+    100% {
+    left: 110%;
+    }
+  }
+  
+
+  .blue-sedan {
+      transform: rotate(90deg);
+      max-height: 100px;
+      z-index: -2;
+      margin-bottom: 35px;
+  } */
+
