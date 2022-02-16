@@ -24,6 +24,10 @@ function Work() {
         </div>
         <div className="description">
           <p>A dapp built on the Rinkeby ethereum testnet to exchange and browse music reccomendations.</p>
+          <div className="linksholder">
+          <a href="https://blockchain-twitter-frontend--antony-ss.repl.co/">Website</a>
+          <a href="https://github.com/Antony-SS/Blockchain-Twitter-Frontend">Github</a>
+          </div>
         </div>
       </div>
 
@@ -45,6 +49,9 @@ function Work() {
         </div>
         <div className="description">
           <p>A terminal app to find recipes to cook based on ingredients you have in your fridge.  Utilizes webscraping to find recipes and text file manipulation to maintain a shopping list that lasts beyond the runtime of the program.  Written in pure C++.  </p>
+          <div className="linksholder">
+          <a href="https://github.com/Antony-SS/RecipEats">Github</a>
+          </div>
         </div>
       </div>
 
@@ -66,6 +73,9 @@ function Work() {
         </div>
         <div className="description">
           <p>Takes an array of data representing elevations in a given region and generates a grayscale ppm image representing the area's elevations.  On top of that image, the program will highlight the path of least change of elevation in green, which is found using the greedy algorithm.  Red lines represent "failed" paths.  Could be improved by implementing recursive backtracking.</p>
+          <div className="linksholder">
+          <a href="https://github.com/Antony-SS/EasiestPathFinder">Github</a>
+          </div>
         </div>
       </div>
   
