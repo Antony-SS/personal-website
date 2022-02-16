@@ -1,13 +1,13 @@
-import react from "react";
-import reactDom from "react-dom";
 import { NavLink } from "react-router-dom";
 import "./styling/Navigation.css"
 
 function Navigation() {
   return (
     <div className="navigation">
+
+
       <div className="header" to="/">
-            <h1 className="headertext">Antony SS</h1>
+            <h1 className="headertext">Antony</h1>
       </div>
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="container">

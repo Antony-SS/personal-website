@@ -2,8 +2,7 @@
     justify-content: center !important;
     height: 100%; width: 100%;
     display: flex;
-    margin-top: 30px;
-    justify-content: center;
+    margin-top: 40px;
 }
 
 .data-container {
@@ -27,17 +26,12 @@ h1 {
 }
 
 .social {
-    max-height: 30px;
+    max-height: 25px;
 }
 
 .socials-container {
     align-content: center;
     flex-direction: column;
-}
-
-.email {
-    height: 24px;
-    width: 26px;
 }
 
 .plane {
@@ -91,3 +85,4 @@ h1 {
       z-index: -2;
       margin-bottom: 35px;
   }
+
