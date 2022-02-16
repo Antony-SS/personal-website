@@ -16,7 +16,7 @@ function Home() {
           <div class="col-lg-8">
             <h2>🙎🏼‍♂️ About</h2>
             <p style={{fontSize: "16.5px"}}>
-              Hi, I'm Antony.  I'm studying Industiral Engineering and Computer Science @ UIUC.  Interested in web3, electric vehicles, sustainability and design.
+              Hi, I'm Antony.  I'm studying Industiral Engineering and Computer Science @ UIUC.  Interested in web3, electric vehicles, sustainability, and design.
             </p>
             <p style={{fontSize: "16.5px"}}>
              Working as a freelance developer on a variety of projects and bounties.  
