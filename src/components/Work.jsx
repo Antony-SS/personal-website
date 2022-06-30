@@ -7,6 +7,32 @@ function Work() {
       <div className="datacontainer">
 
       <div className="projectcard">
+        <h3>Tutorial: Song Vote on Algorand</h3>
+        <div className="row">
+        <div className= "col align-items-center">
+
+        <div class="laptopcontainer">
+  <div class="laptop">
+    <div class="laptop__screen"><img src= {require ("./resources/algorandtutorial.png")} width="1600" height="1000" alt="Screen"/></div>
+    <div class="laptop__bottom">
+      <div class="laptop__under"></div>
+    </div>
+    <div class="laptop__shadow"></div>
+  </div>
+</div>
+        </div>
+        </div>
+        <div className="description">
+          <p>A comprehensive tutorial for developers of all levels to create a voting dapp on the Algorand blockchain.  Created for a Gitcoin bounty, published to the Algorand developer docs, and voted 2nd best community tutorial.</p>
+          <div className="linksholder">
+          <a href="https://developer.algorand.org/tutorials/song-vote-on-algorand-create-and-deploy-a-fully-functioning-dapp/">Tutorial</a>
+          <a href="https://github.com/Antony-SS/Song-Vote-on-Algorand---Create-and-deploy-a-fully-functioning-Dapp">Github</a>
+          <a href="https://song-vote-algorand-final-frontend.antony-ss.repl.co/">Website</a>
+          </div>
+        </div>
+      </div>
+
+      <div className="projectcard">
         <h3>Song Share</h3>
         <div className="row">
         <div className= "col align-items-center">
@@ -56,7 +82,7 @@ function Work() {
       </div>
 
       <div className="projectcard">
-        <h3>Mountain Path Finder</h3>
+        <h3>Path Finder</h3>
         <div className="row">
         <div className= "col align-items-center">
 

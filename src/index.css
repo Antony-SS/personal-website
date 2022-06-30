@@ -7,6 +7,8 @@ body {
   justify-content: center;
   justify-items: center;
   background-repeat:repeat-y;
+  height: 100%;
+  margin:0;
 }
 
 code {
@@ -15,9 +17,9 @@ code {
 }
 
 .wrapper{
-  position: absolute;
-  width: 100%;
-  z-index: -5;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 .dashed-line{
@@ -31,3 +33,4 @@ code {
   width: 100%;
   margin-top: 0vh;
 }
+

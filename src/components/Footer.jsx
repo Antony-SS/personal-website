@@ -3,7 +3,7 @@ import './styling/Footer.css'
 
 function Footer() {
   return (
-    <div className="footer--pin">
+    <div className="footer">
       <footer class="footer-container">
         <div className="row">
 

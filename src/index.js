@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import './components/styling/Footer.css';
-import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import {
   Navigation,
@@ -21,10 +20,8 @@ ReactDOM.render(
       <Route path="/work" element={<Work />} />
       <Route path="/travel" element={<Travel />} />
     </Routes>
-    <Footer />
+    <Footer/>
   </Router>,
 
   document.getElementById("root")
 );
-
-reportWebVitals();

@@ -1,24 +1,14 @@
-.py-5 {
-    background-color: transparent !important;
-    max-height: 5vh;
-}
-
-.footer--pin {
-    position: relative;
-    left: 0;
-    bottom: 0;
-}
-
-.footer-container {
-    position: relative;
+.footer {
     padding: 10px 10px 0px 10px;
     width: 100%;
-    /* Height of the footer*/ 
-    height: 10vh;
+    bottom: 0px;
     background: transparent;
+    width: 100%;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
     justify-content: center;
     align-items: center;
-    height: 100px;
+    height: 80px;
+    margin-top: auto;
 }
+
