@@ -16,10 +16,10 @@ function Home() {
           <div class="col-lg-8">
             <h2>🙎🏼‍♂️ About</h2>
             <p style={{fontSize: "16.5px"}}>
-              Hi, I'm Antony.  I'm studying Industiral Engineering and Computer Science @ UIUC.  Interested in web3, electric vehicles, sustainability, and design.
+              Hi, I'm Antony.  I'm studying Industrial Engineering and Computer Science @ UIUC.  Interested in Web3 (specifically DeFi), fitness, and sustainability.
             </p>
             <p style={{fontSize: "16.5px"}}>
-             Working as a freelance developer on a variety of projects and bounties.  
+             Currently developing blockchain solutions for digital identity management and passwordless authentication as part of Synchrony Financial. 
             </p>
             <p style={{fontSize: "16.5px"}}>
               Born in Germany, raised in Illinois, and currently studying abroad in Madrid.</p>
