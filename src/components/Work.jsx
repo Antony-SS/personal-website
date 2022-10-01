@@ -7,6 +7,32 @@ function Work() {
       <div className="datacontainer">
 
       <div className="projectcard">
+        <h3>Decentralized Digital Identifier</h3>
+        <div className="row">
+        <div className= "col align-items-center">
+
+        <div class="laptopcontainer">
+  <div class="laptop">
+    <div class="laptop__screen"><img src= {require ("./resources/SynchronyID.png")} width="1600" height="1000" alt="Screen"/></div>
+    <div class="laptop__bottom">
+      <div class="laptop__under"></div>
+    </div>
+    <div class="laptop__shadow"></div>
+  </div>
+</div>
+        </div>
+        </div>
+        <div className="description">
+          <p>Project exploring decentralized identity managment and passwordless authentication leveraging modified ERC721 NFTs.  Created as part of a summer internship.  Includes whitepaper and my final thoughts on the space.</p>
+          <div className="linksholder">
+          <a href="https://synchronyapplicationwebsite.netlify.app/">Website</a>
+          <a href="https://github.com/Antony-SS/Decentralized-Digital-Identifier">Github</a>
+          <a href="https://www.notion.so/antony-ss/Digital-Identity-Blockchain-ERC721-NFTs-for-Digital-Identity-Management-and-Passwordless-Authenti-024e10e4b1d048b18133b5c7bfc0e6a9">Whitepaper</a>
+          </div>
+        </div>
+      </div>
+
+      <div className="projectcard">
         <h3>Tutorial: Song Vote on Algorand</h3>
         <div className="row">
         <div className= "col align-items-center">
