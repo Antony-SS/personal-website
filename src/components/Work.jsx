@@ -77,7 +77,7 @@ function Work() {
         <div className="description">
           <p>A dapp built on the Rinkeby ethereum testnet to exchange and browse music reccomendations.</p>
           <div className="linksholder">
-          <a href="https://Blockchain-Twitter-Frontend.antony-ss.repl.co">Website</a>
+          <a href="https://song-share.netlify.app/">Website</a>
           <a href="https://github.com/Antony-SS/Blockchain-Twitter-Frontend">Github</a>
           </div>
         </div>
