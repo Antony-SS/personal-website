@@ -19,10 +19,10 @@ function Home() {
               Hi, I'm Antony.  I'm studying Industrial Engineering and Computer Science @ UIUC.  Interested in blockchain, derivatives, fitness, and nature.  
             </p>
             <p style={{fontSize: "16.5px"}}>
-              Currently building a decentralized lending protocol as part of Illini Blockchain.  
+              Currently building a smart contract security team as a part of Illini Blockchain.  
             </p>
             <p style={{fontSize: "16.5px"}}>
-              Born in Germany, raised in Illinois, and currently studying abroad in Madrid.</p>
+              Born in Germany, raised in Illinois, travelling the world</p>
           </div>
         </div>
       </div>

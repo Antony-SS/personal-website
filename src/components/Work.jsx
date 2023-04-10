@@ -27,7 +27,7 @@ function Work() {
           <div className="linksholder">
           <a href="https://synchronyapplicationwebsite.netlify.app/">Website</a>
           <a href="https://github.com/Antony-SS/Decentralized-Digital-Identifier">Github</a>
-          <a href="https://www.notion.so/antony-ss/Digital-Identity-Blockchain-ERC721-NFTs-for-Digital-Identity-Management-and-Passwordless-Authenti-024e10e4b1d048b18133b5c7bfc0e6a9">Whitepaper</a>
+          <a href="https://www.notion.so/antony-ss/Digital-Identity-Blockchain-ERC721-NFTs-for-Digital-Identity-Management-and-Passwordless-Authenti-024e10e4b1d048b18133b5c7bfc0e6a9?pvs=4">Whitepaper</a>
           </div>
         </div>
       </div>
