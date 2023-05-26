@@ -16,13 +16,13 @@ function Home() {
           <div class="col-lg-8">
             <h2>🙎🏼‍♂️ About</h2>
             <p style={{fontSize: "16.5px"}}>
-              Hi, I'm Antony.  I'm studying Industrial Engineering and Computer Science @ UIUC.  Interested in blockchain, derivatives, fitness, and nature.  
+              Hi, I'm Antony.  I'm studying Industrial Engineering and Computer Science @ UIUC.  Interested in blockchain, autonomous systems, and nature.  
             </p>
             <p style={{fontSize: "16.5px"}}>
-              Currently building a smart contract security team as a part of Illini Blockchain.  
+              Currently trying out product managment with EY Blockchain and tinkering with an arduino.  
             </p>
             <p style={{fontSize: "16.5px"}}>
-              Born in Germany, raised in Illinois, travelling the world</p>
+              I play soccer, lift, read fiction, and enjoy travelling.</p>
           </div>
         </div>
       </div>
